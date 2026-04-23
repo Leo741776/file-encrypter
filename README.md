@@ -1,5 +1,5 @@
 # DES File Encrypter
-This is a program that encrypts/decrypts any binary or text file (.txt, .png, .jpg, .mp3, .mov, etc.) using DES (Data Encryption Standard).
+This is a program that encrypts/decrypts any binary or text file (.txt, .png, .jpg, .mp3, .mov, etc.) using DES (the Data Encryption Standard).
 
 ## How to Run
 - From the root directory, run: `mvn javafx:run` 
