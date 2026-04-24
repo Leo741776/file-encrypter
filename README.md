@@ -14,3 +14,7 @@ This is a program that encrypts/decrypts any binary or text file (.txt, .png, .j
 - **DES Core:** Implements the full FIPS 46-3 DES algorithm from scratch. Key schedule: derives 16 round subkeys (48-bit each) from the 64-bit key using PC-1/PC-2 permutations and per-round left rotations (defined in DESTables). Feistel network: 16-round cipher using expansion (E), XOR with subkey, S-box substitution, P-box permutation, wrapped in IP/FP permutations. Decryption is identical but subkeys are applied in reverse order.
 
 ## Screenshots
+<p align="center">
+  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/8713271b-f034-4f31-9757-35e83693ab3a" />
+  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/9c85c2ca-0ccc-45f1-8724-2892653698cd" />
+</p>
