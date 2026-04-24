@@ -15,6 +15,6 @@ This is a program that encrypts/decrypts any binary or text file (.txt, .png, .j
 
 ## Screenshots
 <p align="center">
-  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/8713271b-f034-4f31-9757-35e83693ab3a" />
-  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/9c85c2ca-0ccc-45f1-8724-2892653698cd" />
+  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/8713271b-f034-4f31-9757-35e83693ab3a" width="45%"/>
+  <img width="510" height="371" alt="Image" src="https://github.com/user-attachments/assets/9c85c2ca-0ccc-45f1-8724-2892653698cd" width="45%"/>
 </p>
