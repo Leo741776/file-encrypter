@@ -2,7 +2,8 @@
 This is a program that encrypts/decrypts any binary or text file (.txt, .png, .jpg, .mp3, .mov, etc.) using DES (the Data Encryption Standard).
 
 ## How to Run
-- From the root directory, run: `mvn javafx:run` 
+- From the root directory, run: `mvn javafx:run` (must have Maven installed)
+- When encrypting, **save the hex key somewhere**, it'll be used to decrypt the encrypted file afterwards
 
 ## Overview
 - **UI Layer:** JavaFX GUI with mode selection (Encrypt/Decrypt), a file browser, and a hex key input. Validates that the key is exactly 16 hex characters (= 64-bit DES key). On decrypt, checks the file size is 8 + (n × 8) bytes (IV + whole blocks).
